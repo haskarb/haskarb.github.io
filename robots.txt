@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: haskarb.github.io/al-folio/sitemap.xml
+Sitemap: haskarb.github.io/sitemap.xml
