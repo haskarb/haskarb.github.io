@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: profiles
 permalink: /people/
 title: people
@@ -25,4 +25,4 @@ profiles:
       <p>Insight Centre for Data Analytics</p>
       <p>O'Brien Centre for Science</p>
       <p>University College Dublin, Ireland</p>
----
+--- -->
