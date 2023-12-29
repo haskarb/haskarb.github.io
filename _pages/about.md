@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Bhaskar Dhariyal | Time Series | Machine Learning
 permalink: /
 # subtitle: Address. Contacts. Moto. Etc.
 
