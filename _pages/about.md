@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p>Insight Centre for Data Analytics,</p>
-      <p>O'Brien Centre for Science,</p>
-      <p>University College Dublin, Ireland</p>
+     <p>Dublin, Ireland</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
