@@ -1,197 +1,236 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Bhaskar Dhariyal",
+    "label": "Senior Data Scientist / Time Series Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "bhaskar94@gmail.com",
+    "phone": "",
+    "url": "https://haskarb.github.io/",
+    "summary": "Senior Data Scientist at PayPal with expertise in time series forecasting, machine learning, and fraud prevention. PhD in Computer Science from University College Dublin. Previously Time Series Researcher at Huawei Ireland Research Centre and Applied Scientist Intern at AWS.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Dublin",
+      "countryCode": "IE",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "haskarb",
+        "url": "https://github.com/haskarb"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "dhariyalbhaskar",
+        "url": "https://linkedin.com/in/dhariyalbhaskar"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "ybabEDkAAAAJ",
+        "url": "https://scholar.google.com/citations?user=ybabEDkAAAAJ&hl=en"
+      },
+      {
+        "network": "Instagram",
+        "username": "haskar___",
+        "url": "https://instagram.com/haskar___"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "PayPal",
+      "position": "Senior Data Scientist, Fraud Prevention",
+      "url": "https://paypal.com",
+      "startDate": "2026-01-01",
+      "endDate": "",
+      "summary": "Leading fraud prevention initiatives using machine learning and time series analysis to detect and prevent fraudulent transactions.",
       "highlights": [
-        "Relativity"
+        "Fraud detection modeling",
+        "Time series anomaly detection",
+        "Large-scale ML pipeline optimization"
+      ]
+    },
+    {
+      "name": "Huawei Ireland Research Centre",
+      "position": "Time Series Researcher",
+      "url": "https://huawei.com",
+      "startDate": "2023-01-01",
+      "endDate": "2025-12-31",
+      "summary": "Research on time series forecasting, anomaly detection, and representation learning for telecommunications and cloud applications.",
+      "highlights": [
+        "Time series forecasting models",
+        "Anomaly detection in telemetry data",
+        "Representation learning for multivariate time series",
+        "Published research at top-tier venues"
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "position": "Applied Scientist II Intern",
+      "url": "https://aws.amazon.com",
+      "startDate": "2022-06-01",
+      "endDate": "2022-12-31",
+      "summary": "Applied research on time series forecasting for AWS cloud services capacity planning.",
+      "highlights": [
+        "Scalable forecasting for cloud capacity",
+        "Deep learning for time series",
+        "Production ML model deployment"
+      ]
+    },
+    {
+      "name": "ION Energy",
+      "position": "ML Engineer",
+      "url": "https://ionenergy.co",
+      "startDate": "2019-01-01",
+      "endDate": "2019-12-31",
+      "summary": "Developed battery analytics and predictive models for EV battery management systems.",
+      "highlights": [
+        "Battery health prediction",
+        "SoC/SoH estimation algorithms",
+        "Edge ML deployment on BMS"
+      ]
+    },
+    {
+      "name": "Lumiq.ai",
+      "position": "Data Scientist",
+      "url": "https://lumiq.ai",
+      "startDate": "2018-01-01",
+      "endDate": "2018-12-31",
+      "summary": "Built ML pipelines for insurance and finance domain applications.",
+      "highlights": [
+        "Insurance risk modeling",
+        "Automated feature engineering",
+        "MLOps pipeline development"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.","Men of the year 2014 by Time magazine"
-      ]
-    }],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University College Dublin",
+      "location": "Dublin, Ireland",
+      "url": "https://ucd.ie",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "startDate": "2020-09-01",
+      "endDate": "",
+      "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Time Series Analysis",
+        "Machine Learning",
+        "Deep Learning",
+        "Statistical Learning"
+      ]
+    },
+    {
+      "institution": "University of Hyderabad",
+      "location": "Hyderabad, India",
+      "url": "https://uohyd.ac.in",
+      "area": "Artificial Intelligence",
+      "studyType": "Master of Technology",
+      "startDate": "2016-08-01",
+      "endDate": "2018-05-31",
+      "score": "",
+      "courses": [
+        "Machine Learning",
+        "Natural Language Processing",
+        "Computer Vision",
+        "Data Mining",
+        "Big Data Analytics"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Machine Learning & Deep Learning",
+      "level": "Expert",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
+        "PyTorch", "TensorFlow", "Scikit-learn", "XGBoost", "LightGBM",
+        "Time Series Forecasting", "Anomaly Detection", "Representation Learning"
+      ]
+    },
+    {
+      "name": "Time Series Analysis",
+      "level": "Expert",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "ARIMA", "Prophet", "DeepAR", "Transformer-based models",
+        "Multivariate forecasting", "Probabilistic forecasting"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python", "SQL", "C++", "R", "Julia"
+      ]
+    },
+    {
+      "name": "MLOps & Cloud",
+      "level": "Advanced",
+      "icon": "fa-solid fa-cloud",
+      "keywords": [
+        "AWS", "Docker", "Kubernetes", "MLflow", "Kubeflow",
+        "CI/CD", "Model Serving", "Feature Stores"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
-      "icon":""
-    },
-    {
       "language": "English",
       "fluency": "Fluent"
-      "icon":""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native"
+    },
+    {
+      "language": "Kumaoni",
+      "fluency": "Native"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Time Series Research",
+      "icon": "fa-solid fa-chart-line",
       "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
+        "Forecasting", "Anomaly Detection", "Causal Inference"
+      ]
+    },
+    {
+      "name": "Reading",
+      "icon": "fa-solid fa-book",
+      "keywords": [
+        "Science Fiction", "Non-fiction", "Technical Books"
+      ]
+    },
+    {
+      "name": "Sports",
+      "icon": "fa-solid fa-person-running",
+      "keywords": [
+        "Badminton", "Chess", "Fitness"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "CodeOptimiserLLM",
+      "summary": "AI-powered Python to C++ converter with automated performance benchmarking using LLMs.",
       "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
+        "LLM-based code generation",
+        "Automated benchmarking",
+        "5-20x speedup on compute-intensive algorithms"
       ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "url": "https://github.com/haskarb/CodeOptimiserLLM"
     }
   ]
 }

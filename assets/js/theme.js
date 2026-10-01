@@ -26,19 +26,6 @@ let setTheme = (theme) => {
       }
     }
 
-    // Set jupyter notebooks themes.
-    let jupyterNotebooks = document.getElementsByClassName("jupyter-notebook-iframe-container");
-    for (let i = 0; i < jupyterNotebooks.length; i++) {
-      let bodyElement = jupyterNotebooks[i].getElementsByTagName("iframe")[0].contentWindow.document.body;
-      if (theme == "dark") {
-        bodyElement.setAttribute("data-jp-theme-light", "false");
-        bodyElement.setAttribute("data-jp-theme-name", "JupyterLab Dark");
-      } else {
-        bodyElement.setAttribute("data-jp-theme-light", "true");
-        bodyElement.setAttribute("data-jp-theme-name", "JupyterLab Light");
-      }
-    }
-
   } else {
     document.documentElement.removeAttribute("data-theme");
   }
@@ -99,3 +86,13 @@ let initTheme = (theme) => {
 };
 
 initTheme(localStorage.getItem("theme"));
+
+// Dark mode toggle button handler
+document.addEventListener('DOMContentLoaded', function() {
+  const mode_toggle = document.getElementById("light-toggle");
+  if (mode_toggle) {
+    mode_toggle.addEventListener("click", function() {
+      toggleTheme(localStorage.getItem("theme"));
+    });
+  }
+});
